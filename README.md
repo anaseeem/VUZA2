@@ -210,7 +210,7 @@ Done! Your keys are stored **only in your browser's localStorage** — they are 
 
 The T4 GPU makes video rendering **much faster** than most laptops. Plus you get Google's fast internet for downloading media — no more slow downloads!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AliRash3ed/VUZA-Free-AI-Video-Creator-and-Pinterest-Video-Scraper/blob/main/vuza_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anaseeem/VUZA2/blob/main/vuza_colab.ipynb)
 
 **Just click the badge and it will:**
 1. ✅ Clone VUZA automatically
